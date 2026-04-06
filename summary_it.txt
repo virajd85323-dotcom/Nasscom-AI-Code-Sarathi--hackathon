@@ -1,0 +1,14 @@
+Rules:
+- 1 corporate devices (laptops, desktops, mobile phones issued by
+    cmc) must be used primarily for official work purposes
+- 3 employees must not install software on corporate devices
+    without written approval from the it department
+- 4 software approved for installation must be sourced from the
+    cmc-approved software catalogue only
+- 5 corporate devices must not be used to access gambling, adult
+    content, or any site classified as harmful by the it department
+- 6 corporate devices must have the cmc endpoint security agent
+    installed and active at all times
+
+Restrictions:
+- 
