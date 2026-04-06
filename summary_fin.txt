@@ -1,0 +1,14 @@
+Rules:
+- 3 all claims must be submitted within 30 calendar days of the
+    expense being incurred
+- receipts are required for all claims above rs 200
+- 2 outstation travel must be pre-approved using form fin-t1
+    before travel commences
+- no separate meal receipts
+    are required if da is claimed
+- 6 if actual meal expenses are claimed instead of da, receipts
+    are mandatory and the combined meal claim must not exceed
+    rs 750 per day
+
+Restrictions:
+- 
